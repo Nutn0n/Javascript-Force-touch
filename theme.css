@@ -1,0 +1,1477 @@
+
+/* ============================================================
+============================================================
+
+Core by : Normalize.css v3.0.2 | MIT License | git.io/normalize
+Developed by: Nutn0n | www.nutn0n.com
+
+UNDER MIT LICENSE
+
+==============================================================
+==============================================================*/
+
+@import url("normalize.css");
+
+.oak-alizarin a {
+  color: #373737;
+}
+.oak-alizarin blockquote {
+  border-left: 5px solid #373737;
+}
+.oak-alizarin mark {
+  background-color: #373737;
+}
+.oak-alizarin .oak-button:hover,
+.oak-alizarin .older-posts:hover,
+.oak-alizarin .newer-posts:hover {
+  background: #373737;
+  border-color: #373737;
+}
+.oak-alizarin .oak-header {
+  background-color: #ffffff;
+}
+.oak-alizarin .oak-article .oak-article-title a:hover {
+  color: #373737;
+}
+.oak-alizarin .oak-previous-post:hover,
+.oak-alizarin .oak-next-post:hover {
+  border-color: #373737;
+}
+@media (min-width: 1000px) {
+  .oak-alizarin.oak-navigation-active .oak-header .oak-overlay {
+    background: rgba(255,255, 255, 0.9);
+    -webkit-backdrop-filter:blur(4px);
+
+  }
+}
+@media (max-width: 1000px) {
+  .oak-alizarin .oak-navigation {
+    background: rgba(255, 255,255, 0.9);
+    -webkit-backdrop-filter:blur(4px);
+  }
+}
+/* ========================================================================================================================
+		1.2 Belize Hole
+============================================================================================================================*/
+.oak-belize-hole a {
+  color: #2980b9;
+}
+.oak-belize-hole blockquote {
+  border-left: 5px solid #2980b9;
+}
+.oak-belize-hole mark {
+  background-color: #2980b9;
+}
+.oak-belize-hole .oak-button:hover,
+.oak-belize-hole .older-posts:hover,
+.oak-belize-hole .newer-posts:hover {
+  background: #2980b9;
+  border-color: #2980b9;
+}
+.oak-belize-hole .oak-header {
+  background-color: #2980b9;
+}
+.oak-belize-hole .oak-article .oak-article-title a:hover {
+  color: #2980b9;
+}
+.oak-belize-hole .oak-previous-post:hover,
+.oak-belize-hole .oak-next-post:hover {
+  border-color: #2980b9;
+}
+@media (min-width: 1000px) {
+  .oak-belize-hole.oak-navigation-active .oak-header .oak-overlay {
+    background: #2980b9;
+  }
+}
+@media (max-width: 1000px) {
+  .oak-belize-hole .oak-navigation {
+    background: #2980b9;
+  }
+}
+
+
+.oak-wisteria a {
+  color: #8e44ad;
+}
+.oak-wisteria blockquote {
+  border-left: 5px solid #8e44ad;
+}
+.oak-wisteria mark {
+  background-color: #8e44ad;
+}
+.oak-wisteria .oak-button:hover,
+.oak-wisteria .older-posts:hover,
+.oak-wisteria .newer-posts:hover {
+  background: #8e44ad;
+  border-color: #8e44ad;
+}
+.oak-wisteria .oak-header {
+  background-color: #8e44ad;
+}
+.oak-wisteria .oak-article .oak-article-title a:hover {
+  color: #8e44ad;
+}
+.oak-wisteria .oak-previous-post:hover,
+.oak-wisteria .oak-next-post:hover {
+  border-color: #8e44ad;
+}
+@media (min-width: 1000px) {
+  .oak-wisteria.oak-navigation-active .oak-header .oak-overlay {
+    background: #8e44ad;
+  }
+}
+@media (max-width: 1000px) {
+  .oak-wisteria .oak-navigation {
+    background: #8e44ad;
+  }
+}
+
+
+.oak-pumpkin a {
+  color: #d35400;
+}
+.oak-pumpkin blockquote {
+  border-left: 5px solid #d35400;
+}
+.oak-pumpkin mark {
+  background-color: #d35400;
+}
+.oak-pumpkin .oak-button:hover,
+.oak-pumpkin .older-posts:hover,
+.oak-pumpkin .newer-posts:hover {
+  background: #d35400;
+  border-color: #d35400;
+}
+.oak-pumpkin .oak-header {
+  background-color: #d35400;
+}
+.oak-pumpkin .oak-article .oak-article-title a:hover {
+  color: #d35400;
+}
+.oak-pumpkin .oak-previous-post:hover,
+.oak-pumpkin .oak-next-post:hover {
+  border-color: #d35400;
+}
+@media (min-width: 1000px) {
+  .oak-pumpkin.oak-navigation-active .oak-header .oak-overlay {
+    background: #d35400;
+  }
+}
+@media (max-width: 1000px) {
+  .oak-pumpkin .oak-navigation {
+    background: #d35400;
+  }
+}
+
+.oak-green-sea a {
+  color: #16a085;
+}
+.oak-green-sea blockquote {
+  border-left: 5px solid #16a085;
+}
+.oak-green-sea mark {
+  background-color: #16a085;
+}
+.oak-green-sea .oak-button:hover,
+.oak-green-sea .older-posts:hover,
+.oak-green-sea .newer-posts:hover {
+  background: #16a085;
+  border-color: #16a085;
+}
+.oak-green-sea .oak-header {
+  background-color: #16a085;
+}
+.oak-green-sea .oak-article .oak-article-title a:hover {
+  color: #16a085;
+}
+.oak-green-sea .oak-previous-post:hover,
+.oak-green-sea .oak-next-post:hover {
+  border-color: #16a085;
+}
+@media (min-width: 1000px) {
+  .oak-green-sea.oak-navigation-active .oak-header .oak-overlay {
+    background: #16a085;
+  }
+}
+@media (max-width: 1000px) {
+  .oak-green-sea .oak-navigation {
+    background: #16a085;
+  }
+}
+/* ========================================================================================================================
+		1.6 Asbestos
+============================================================================================================================*/
+.oak-asbestos a {
+  color: #7f8c8d;
+}
+.oak-asbestos blockquote {
+  border-left: 5px solid #7f8c8d;
+}
+.oak-asbestos mark {
+  background-color: #7f8c8d;
+}
+.oak-asbestos .oak-button:hover,
+.oak-asbestos .older-posts:hover,
+.oak-asbestos .newer-posts:hover {
+  background: #7f8c8d;
+  border-color: #7f8c8d;
+}
+.oak-asbestos .oak-header {
+  background-color: #7f8c8d;
+}
+.oak-asbestos .oak-article .oak-article-title a:hover {
+  color: #7f8c8d;
+}
+.oak-asbestos .oak-previous-post:hover,
+.oak-asbestos .oak-next-post:hover {
+  border-color: #7f8c8d;
+}
+@media (min-width: 1000px) {
+  .oak-asbestos.oak-navigation-active .oak-header .oak-overlay {
+    background: #7f8c8d;
+  }
+}
+@media (max-width: 1000px) {
+  .oak-asbestos .oak-navigation {
+    background: #7f8c8d;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .desktop-only {
+    visibility: hidden;
+    clear: both;
+    display: none;
+  }
+}
+
+
+/* ========================================================================================================================
+General styles - Base styles
+============================================================================================================================*/
+html,
+body {
+  height: 100%;
+  max-height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+::-moz-selection {
+  background: #D6EDFF;
+}
+::selection {
+  background: #D6EDFF;
+}
+body {
+  font-size: 16px;
+  font-weight: 300;
+  font-family: sans-serif;
+  color: #333333;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #333333;
+  font-family: "Sukhumvit Set","Thai Sans Neue Fixed","Helvetica Neue",sans-serif;
+  font-weight: 100;
+}
+
+.sukhumvit { font-family: "Sukhumvit Set","Thai Sans Neue Fixed","Helvetica Neue",sans-serif; font-weight: 100; }
+
+
+img {
+  position: relative;
+  max-width: 100%;
+  height: auto;
+  border-radius: 2px;
+}
+input,
+textarea {
+  outline: none;
+  box-shadow: none;
+}
+hr {
+  border: none;
+  border-top: 1px solid #D6D6D6;
+  margin: 2rem 0;
+}
+a {
+  padding: 0 2px;
+  text-decoration: none;
+  -webkit-transition: 0.2s ease;
+  -moz-transition: 0.2s ease;
+  -o-transition: 0.2s ease;
+  transition: 0.2s ease;
+}
+a:hover {
+  color:#0088CC;
+}
+blockquote {
+  position: relative;
+  margin: 0;
+  padding: 0.5rem 0 0.5rem 2rem;
+  font-size: 1.1rem;
+  text-align: left;
+  font-family: "Sukhumvit Set","Thai Sans Neue Fixed","Helvetica Neue",sans-serif;
+  -webkit-transition: 0.2s ease;
+  -moz-transition: 0.2s ease;
+  -o-transition: 0.2s ease;
+  transition: 0.2s ease;
+}
+blockquote p {
+  text-align: left;
+}
+blockquote:hover {
+  border-left-color: #00aced;
+}
+blockquote:hover .oak-tweet {
+  opacity: 1;
+}
+blockquote .oak-tweet {
+  display: block;
+  border: none;
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: -1rem;
+  top: 50%;
+  margin-top: -1rem;
+  margin-left: -2.5px;
+  border-radius: 100%;
+  background: #fff;
+  color: #00aced;
+  text-align: center;
+  line-height: 2rem;
+  vertical-align: middle;
+  opacity: 0;
+  -webkit-transition: 0.1s ease;
+  -moz-transition: 0.1s ease;
+  -o-transition: 0.1s ease;
+  transition: 0.1s ease;
+}
+blockquote .oak-tweet:hover {
+  background: #00aced;
+}
+blockquote .oak-tweet:hover:before {
+  color: #fff;
+}
+blockquote cite {
+  font-weight: 400;
+}
+mark {
+  color: #fff;
+}
+kbd {
+  display: inline-block;
+  padding: 0 15px;
+  border: 1px #ddd;
+  border-radius: 2px;
+}
+pre {
+  border-radius: 2px;
+  padding: 1rem;
+  background: #f1f0ea;
+  border: 1px solid #ddd;
+  max-height: 50rem;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap !important;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  overflow: auto;
+  word-wrap: break-word;
+}
+code {
+  padding: 0 2px;
+  border-radius: 2px;
+  background: #f1f0ea;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap !important;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+code,
+kbd,
+pre,
+samp {
+  color: #2c3e50;
+  font-size: .95rem;
+  text-align: left;
+}
+iframe {
+  display: block;
+  padding: 1rem 0;
+  width:100%;
+}
+table th,
+table td {
+  padding: 6px 15px;
+  text-align: left;
+  vertical-align: top;
+
+}
+table th {
+  color: #333333;
+}
+table caption + thead tr:first-child th,
+table caption + thead tr:first-child td,
+table colgroup + thead tr:first-child th,
+table colgroup + thead tr:first-child td,
+table thead:first-child tr:first-child th,
+table thead:first-child tr:first-child td {
+  border-top: 0;
+}
+table tbody + tbody {
+  border-top: #ddd 2px solid;
+}
+table table table {
+  background-color: #fff;
+}
+table tbody > tr:nth-child(odd) > td,
+table tbody > tr:nth-child(odd) > th {
+  background-color: #F6F6F6;
+}
+table.plain tbody > tr:nth-child(odd) > td,
+table.plain tbody > tr:nth-child(odd) > th {
+  background: transparent;
+}
+a.oak-button,
+.oak-button {
+  border-radius: 2px;
+  display: inline-block;
+  position: relative;
+  font-weight: 300;
+  background: rgba(0, 0, 0, 0.0);
+  color: #2c3e50;
+  border: 1px solid #333333;
+  padding: 6px 15px;
+  outline: none;
+  -webkit-transition: 0.01s ease;
+  -moz-transition: 0.01s ease;
+  -o-transition: 0.01s ease;
+  transition: 0.01s ease;
+}
+a.oak-button.oak-button-inverse,
+.oak-button.oak-button-inverse {
+  color: #fff;
+  border-color: #fff;
+  background: transparent;
+}
+a.oak-button.oak-button-inverse:hover,
+.oak-button.oak-button-inverse:hover {
+  background: rgba(255, 255, 255, 0.8);
+  border-color: transparent;
+  color: #333333;
+}
+a.oak-button.oak-button-image,
+.oak-button.oak-button-image {
+  background-size: cover !important;
+  background-position: 50% 50%;
+  border: none;
+}
+a.oak-button:hover,
+.oak-button:hover {
+  color: #fff;
+}
+/* ========================================================================================================================
+	3. Utilities
+============================================================================================================================*/
+.oak-inner {
+  position: relative;
+  width: 80%;
+  max-width: 800px;
+ margin-left: auto;
+ margin-right: auto;
+}
+.oak-uppercase {
+  text-transform: uppercase;
+}
+/* ========================================================================================================================
+	4. Navigation styles
+============================================================================================================================*/
+.oak-navigation-button {
+  display: block;
+  position: fixed;
+  top: 2rem;
+  left: 2rem;
+  z-index: 10;
+  background: transparent;
+  border: none;
+  color: #333333;
+  font-size: 3.0rem;
+  outline: none;
+  padding: 0 3px;
+  letter-spacing: 1px;
+}
+
+.oak-navigation-button:before {
+  font-size: 3.0rem;
+  width: 2rem;
+  vertical-align: bottom;
+  text-align: left;
+}
+.oak-navigation {
+  position: fixed;
+  overflow: hidden;
+  width: 27%;
+  height: 100%;
+  left: -27%;
+  z-index: 5;
+  -webkit-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -moz-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -o-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+}
+.oak-navigation ul {
+  padding: 0 2rem;
+  margin: 8rem 0 2rem 0;
+  list-style-type: none;
+  display: inline-block;
+  width: 100%;
+  max-height: 80%;
+  overflow: auto;
+}
+.oak-navigation ul li {
+  position: relative;
+  line-height: 1;
+  margin-bottom: 2rem;
+  border-left: 1px solid transparent;
+  padding-left: 2rem;
+  -webkit-transition: 0.5s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -moz-transition: 0.5s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -o-transition: 0.5s cubic-bezier(0.42, 0.66, 0.14, 1);
+  transition: 0.5s cubic-bezier(0.42, 0.66, 0.14, 1);
+}
+.oak-navigation ul li:hover {
+  border-left-color: #0085CF;
+}
+.oak-navigation ul li a {
+  border-radius: 0;
+  color: #333333
+  font-weight: 300;
+  font-size: 1.3rem;
+  border-bottom: none;
+  letter-spacing: .1rem;
+}
+.oak-navigation ul li a:hover {
+  background: none;
+  color: #0085CF;
+}
+.oak-navigation ul li.nav-current a {
+  font-weight: bold;
+}
+/* ========================================================================================================================
+	5. Header styles
+============================================================================================================================*/
+.oak-header {
+  -webkit-backface-visibility: hidden;
+  z-index: 1;
+  display: inline-block;
+  background-size: cover;
+  background-position: 50% 50%;
+  position: fixed;
+  width: 27%;
+  height: 100%;
+  color: #333333;
+  text-align: center;
+  left: 0;
+
+}
+.oak-header .oak-inner {
+  padding: 2rem 0;
+  margin-top: 6rem;
+}
+
+@media (max-width: 768px) {
+
+  .oak-header .oak-inner {
+    padding: 0.2rem 0;
+    margin-top: 0px!important;
+    z-index: 9999999;
+    background-color: rgba(255, 255, 255, 0.9)!important;
+    -webkit-backdrop-filter:blur(5px);
+  }
+
+  .oak-header { position: fixed!important; }
+  .mobile-margin { margin-top: -5px!important;  padding-bottom: 14px!important;}
+  .mobile-minimal { background-color:#ffffff!important; font-size: 14px!important;}
+}
+
+
+.oak-header *:not(.oak-overlay) {
+  opacity: 1;
+  -webkit-font-smoothing: antialiased;
+  -webkit-transition: 1s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -moz-transition: 1s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -o-transition: 1s cubic-bezier(0.42, 0.66, 0.14, 1);
+  transition: 1s cubic-bezier(0.42, 0.66, 0.14, 1);
+}
+.oak-header h1,
+.oak-header h2,
+.oak-header h3,
+.oak-header h4,
+.oak-header h5,
+.oak-header h6,
+.oak-header a {
+  color: #333333;
+}
+.oak-header a:hover {
+  background: transparent;
+  border-bottom: transparent;
+}
+.oak-header .oak-header-logo {
+  height: 4rem;
+  width: auto;
+  margin: 0 auto;
+}
+.oak-header .oak-header-title {
+  font-family: "Sukhumvit Set","Thai Sans Neue Fixed","Helvetica Neue",sans-serif;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  color:#333333!important;
+}
+.oak-header hr {
+  margin: 1rem 0;
+}
+.oak-header .oak-get-in-touch {
+  left: 0;
+  width: 100%;
+  color: #333333;
+  position: absolute;
+  bottom: 0;
+}
+.oak-header .oak-get-in-touch ul {
+  padding: 0px;
+  list-style-type: none;
+}
+.oak-header .oak-get-in-touch ul li {
+  display: inline-block;
+}
+.oak-overlay {
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  -webkit-backdrop-filter: blur(7px);
+  background-color: rgba(255, 255, 255, 0.8);
+  -webkit-transition: 1s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -moz-transition: 1s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -o-transition: 1s cubic-bezier(0.42, 0.66, 0.14, 1);
+  transition: 1s cubic-bezier(0.42, 0.66, 0.14, 1);
+}
+/* ========================================================================================================================
+	6. Main styles
+============================================================================================================================*/
+.oak-main {
+  display: inline-block;
+  position: relative;
+  float: right;
+  width: 73%;
+  overflow: hidden;
+}
+.oak-main .oak-inner {
+  width: 100%;
+  max-width: 800px;
+}
+
+.oak-main > header {
+  padding: 2rem 4rem;
+  width: 100%;
+}
+.oak-main > header .oak-main-header-left-item {
+  color: #333333;
+  text-decoration: none;
+  background: none;
+  border: none;
+  letter-spacing: 1px;
+  font-size: 1.3rem;
+}
+.oak-main > header .oak-main-header-left-item:before {
+  font-size: 1.5rem;
+}
+.oak-main > header .oak-inner {
+  height: 2rem;
+}
+.oak-post-search {
+  float: right;
+  position: relative;
+  z-index: 3;
+  margin-top: -6px;
+  display: inline;
+  border-radius: 2px;
+  padding: 0;
+}
+.oak-post-search input {
+  font-size: 1.3rem;
+  padding: 6px 15px;
+  height: 100%;
+  border: 1px solid transparent;
+  border-bottom: none;
+  border-right: none;
+  margin: 0;
+  max-width: 13rem;
+  background: transparent;
+  -webkit-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -moz-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -o-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+}
+.oak-post-search .oak-search-icon {
+  font-size: 1.8rem;
+  color: #333333;
+  vertical-align: middle;
+  text-align: center;
+  top: 0;
+  margin: 0;
+  padding: 0 15px 0 0;
+  position: relative;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-bottom: none;
+  border-left: none;
+  float: right;
+  -webkit-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -moz-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -o-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+}
+.oak-post-search .oak-search-results {
+  margin-left: -1;
+  z-index: 2;
+  border: 1px solid transparent;
+  border-top: none;
+  position: absolute;
+  top: 2.5rem;
+  width: 100%;
+  padding: 6px 15px;
+  opacity: 0;
+  visibility: hidden;
+  background: #fff;
+  font-weight: 300;
+  -webkit-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -moz-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -o-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+}
+.oak-post-search .oak-search-results a {
+  line-height: 25px;
+}
+.oak-post-search.oak-post-search-active input {
+  border-color: #ddd;
+  background: #fff;
+  max-width: 20rem;
+}
+.oak-post-search.oak-post-search-active .oak-search-icon {
+  border-color: #ddd;
+  background: #fff;
+}
+.oak-post-search.oak-post-search-active .oak-search-results {
+  width: 100%;
+  visibility: visible;
+  opacity: 1;
+  border-color: #ddd;
+}
+.oak-articles-columns {
+  overflow: hidden;
+  width: 100%;
+}
+.oak-articles-column {
+  width: 50%;
+}
+.oak-articles-column:nth-child(1) {
+  float: left;
+}
+.oak-articles-column:nth-child(2) {
+  float: right;
+}
+/* ========================================================================================================================
+	7. Article styles
+============================================================================================================================*/
+/* ========================================================================================================================
+		7.1 Base article styles
+============================================================================================================================*/
+.oak-article {
+  padding: 4rem;
+  position: relative;
+  width: 100%;
+}
+.oak-article:first-child {
+  padding-top: 2rem;
+}
+.oak-article .oak-article-title {
+  margin: 0;
+  letter-spacing: .1rem;
+  line-height: 2.2rem;
+  font-size:25px!important;
+   font-family: "Sukhumvit Set","Thai Sans Neue Fixed","Helvetica Neue",sans-serif;
+
+}
+.oak-article .oak-article-title a {
+  padding: 0;
+  font-weight: 300;
+  color: #333333;
+}
+.oak-article .oak-article-title a:hover {
+  color: #0088CC!important;
+}
+
+.oak-article img {
+  display: block;
+  margin: 0 auto;
+  cursor: zoom-in;
+}
+.oak-article .oak-article-content {
+  text-align: left;
+  margin: 1rem 0;
+}
+.oak-article .oak-article-tags a {
+  text-transform: uppercase;
+  font-size: .75rem;
+  padding: 0 6px;
+  line-height: 30px;
+}
+/* ========================================================================================================================
+		7.2 Article styles for listings pages (index.hbs, tag.hbs, author.hbs)
+============================================================================================================================*/
+
+.oak-articles-column > .oak-article header .oak-article-cover {
+  position: relative;
+  overflow: hidden;
+}
+.oak-articles-column > .oak-article header .oak-article-cover img {
+  display: block;
+  -webkit-backface-visibility: hidden;
+  -webkit-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -moz-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -o-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+}
+.oak-articles-column > .oak-article header .oak-article-cover a {
+  border-radius: 2px;
+  display: inline-block;
+  position: relative;
+  font-weight: 300;
+  color: #2c3e50;
+  border: 1px solid #333333;
+  padding: 6px 15px;
+  outline: none;
+  -webkit-transition: 0.01s ease;
+  -moz-transition: 0.01s ease;
+  -o-transition: 0.01s ease;
+  transition: 0.01s ease;
+  color: #fff;
+  border-color: #fff;
+  background: transparent;
+  content: "อ่านต่อ";
+  position: absolute;
+  text-align: center;
+  width: 9rem;
+  font-size: 1.3rem;
+  line-height: 2rem;
+  top: 50%;
+  left: 50%;
+  margin-top: -1.5rem;
+  margin-left: -4.5rem;
+  opacity: 0;
+  z-index: 1;
+}
+.oak-articles-column > .oak-article header .oak-article-cover a.oak-button-inverse {
+  color: #333333;
+  border-color: #333333;
+  background: transparent;
+}
+.oak-articles-column > .oak-article header .oak-article-cover a.oak-button-inverse:hover {
+  background: rgba(255, 255, 255, 0.4);
+  border-color: transparent;
+  color: #0085CF;
+}
+
+.nav-name { font-size:17px; top:0; }
+
+.oak-articles-column > .oak-article header .oak-article-cover a.oak-button-image {
+  background-size: cover !important;
+  background-position: 50% 50%;
+  border: none;
+}
+.oak-articles-column > .oak-article header .oak-article-cover a:hover {
+  color: #333333;
+}
+.oak-articles-column > .oak-article header .oak-article-cover a:hover {
+  background: rgba(255, 255, 255, 0.8);
+  border-color: transparent;
+  color: #333333;
+}
+.oak-articles-column > .oak-article header .oak-article-cover:after {
+  opacity: 0;
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  background: rgba(0, 0, 0, 0.3);
+  -webkit-backdrop-filter: blur(10px);
+  -webkit-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -moz-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  -o-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+}
+.oak-articles-column > .oak-article header .oak-article-cover:hover img {
+  -webkit-transform: scale3d(1.07, 1.07, 1);
+  transform: scale3d(1.07, 1.07, 1);
+
+}
+.oak-articles-column > .oak-article header .oak-article-cover:hover:after,
+.oak-articles-column > .oak-article header .oak-article-cover:hover a {
+  opacity: 1;
+}
+.oak-articles-column > .oak-article header .oak-article-title {
+  margin-top: 1rem;
+}
+.oak-articles-column > .oak-article .oak-article-content p:last-child:after {
+  content: "";
+}
+.oak-articles-column > .oak-article .oak-article-footer .oak-article-actions {
+  width: 100%;
+  display: inline-block;
+}
+.oak-articles-column > .oak-article .oak-article-footer .oak-article-actions .oak-read-more {
+  float: left;
+}
+.oak-articles-column > .oak-article .oak-article-footer .oak-article-actions .oak-social-share {
+  float: right;
+}
+.oak-articles-column > .oak-article .oak-article-footer .oak-article-info {
+  text-transform: uppercase;
+  font-size: .75rem;
+  display: inline-block;
+}
+/* ========================================================================================================================
+		7.3 Article styles for post.hbs & page.hbs
+============================================================================================================================*/
+.oak-main > .oak-article {
+  padding-top: 2rem;
+}
+.oak-main > .oak-article .oak-article-content {
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+}
+.oak-main > .oak-article .oak-mobile-share {
+  margin: 2rem 0;
+  width: 100%;
+  text-align: center;
+}
+.oak-main > .oak-article .oak-article-footer h3 {
+  margin: 0;
+}
+.oak-main > .oak-article .oak-article-footer hr {
+  margin: 1rem 0;
+}
+.oak-article-author {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 2px;
+  clear: both;
+}
+.oak-article-author:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.8);
+}
+.oak-article-author .oak-article-author-image {
+  position: relative;
+  float: left;
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.oak-article-author .oak-article-author-image a {
+  position: relative;
+  z-index: 1;
+  height: 6rem;
+  width: 6rem;
+  margin: 1rem;
+  display: inline-block;
+  border-radius: 100%;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.oak-article-author .oak-article-author-info {
+  position: relative;
+  float: left;
+  margin: 1rem;
+  z-index: 1;
+}
+.oak-article-author .oak-article-author-info a {
+  padding: 0;
+}
+.oak-article-author .oak-article-author-info h3 {
+  margin: 0;
+}
+/* ========================================================================================================================
+		7.4	Featured article styles
+============================================================================================================================*/
+.featured .oak-article-title {
+  position: relative;
+}
+.featured .oak-article-title:before {
+  content: "FEATURED \f24e";
+  font-size: .7rem;
+  line-height: .8rem;
+  display: block;
+  margin-left: 2px;
+  font-family: sans-serif;
+}
+/* ========================================================================================================================
+		7.5	Responsive google maps styles
+============================================================================================================================*/
+.oak-google-maps {
+  position: relative;
+  padding-bottom: 50%;
+  height: 0;
+  overflow: hidden;
+}
+.oak-google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+/* ========================================================================================================================
+		7.6	Previous and next posts styles
+============================================================================================================================*/
+.oak-previous-post-wrapper,
+.oak-next-post-wrapper {
+  width: 50%;
+  display: inline-block;
+}
+.oak-previous-post-wrapper {
+  padding-left: 1rem;
+  float: right;
+}
+.oak-next-post-wrapper {
+  padding-right: 1rem;
+  float: left;
+}
+.oak-previous-next-post-full-width {
+  width: 100%;
+  display: block;
+  padding: 0;
+}
+.oak-previous-post,
+.oak-next-post {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 2rem;
+  padding: 1rem 0;
+  text-align: center;
+  border-radius: 2px;
+  -webkit-transition: 0.2s ease;
+  -moz-transition: 0.2s ease;
+  -o-transition: 0.2s ease;
+  transition: 0.2s ease;
+}
+.oak-previous-post:hover h2,
+.oak-next-post:hover h2 {
+  color: inherit;
+}
+.oak-previous-post h2,
+.oak-next-post h2 {
+  color: #333333;
+  margin: 0;
+  margin-top: 0.5rem;
+  -webkit-transition: 0.2s ease;
+  -moz-transition: 0.2s ease;
+  -o-transition: 0.2s ease;
+  transition: 0.2s ease;
+}
+.oak-previous-post strong,
+.oak-next-post strong,
+.oak-previous-post time,
+.oak-next-post time {
+  color: #333333;
+}
+.oak-previous-post hr,
+.oak-next-post hr {
+  width: 15%;
+  margin: 0.5rem auto !important;
+  border-top-color: #333333;
+}
+.oak-previous-post a,
+.oak-next-post a {
+  background: none;
+  border: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.oak-previous-post .oak-previous-post-background,
+.oak-next-post .oak-previous-post-background,
+.oak-previous-post .oak-next-post-background,
+.oak-next-post .oak-next-post-background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.2;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+/* ========================================================================================================================
+	8. Pagination styles
+============================================================================================================================*/
+.oak-pagination {
+  position: relative;
+  margin: 4rem 0;
+  width: 100%;
+  text-align: center;
+}
+.oak-pagination .page-number {
+  display: none;
+}
+.oak-pagination .older-posts,
+.oak-pagination .newer-posts {
+  border-radius: 2px;
+  display: inline-block;
+  position: relative;
+  font-weight: 300;
+  background: #fff;
+  color: #2c3e50;
+  border: 1px solid #333333;
+  padding: 6px 15px;
+  outline: none;
+  -webkit-transition: 0.01s ease;
+  -moz-transition: 0.01s ease;
+  -o-transition: 0.01s ease;
+  transition: 0.01s ease;
+  color: #333333;
+}
+.oak-pagination .older-posts.oak-button-inverse,
+.oak-pagination .newer-posts.oak-button-inverse {
+  color: #333333;
+  border-color: #333333;
+  background: transparent;
+}
+.oak-pagination .older-posts.oak-button-inverse:hover,
+.oak-pagination .newer-posts.oak-button-inverse:hover {
+  background: rgba(255, 255, 255, 0.8);
+  border-color: transparent;
+  color: #333333;
+}
+.oak-pagination .older-posts.oak-button-image,
+.oak-pagination .newer-posts.oak-button-image {
+  background-size: cover !important;
+  background-position: 50% 50%;
+  border: none;
+}
+.oak-pagination .older-posts:hover,
+.oak-pagination .newer-posts:hover {
+  color: #fff;
+}
+.oak-pagination .newer-posts {
+  margin-left: -8px;
+}
+/* ========================================================================================================================
+	9. Footer styles
+============================================================================================================================*/
+.oak-footer {
+  position: relative;
+  width: 100%;
+  background: #fff;
+  padding: 0.5rem 0;
+  color:#333333;
+  text-align: center;
+  font-size: 0.8rem;
+}
+.oak-footer p {
+  margin: 0.5rem 0 0 0;
+}
+/* ========================================================================================================================
+	10. Social buttons
+============================================================================================================================*/
+.oak-social-share {
+  display: inline-block;
+}
+.oak-social-share span {
+  padding: 6px 15px 6px 0;
+}
+.oak-button-social {
+  text-align: center;
+  border-color: transparent !important;
+}
+.oak-button-social:before {
+  width: 1rem;
+}
+.oak-button-social.oak-twitter:hover {
+  border-color: #00aced;
+  background: #00aced;
+  color: #fff;
+}
+.oak-button-social.oak-twitter:hover:before {
+  content: "\f243";
+}
+.oak-button-social.oak-facebook:hover {
+  border-color: #3b5998;
+  background: #3b5998;
+  color: #fff;
+}
+.oak-button-social.oak-facebook:hover:before {
+  content: "\f231";
+}
+.oak-button-social.oak-google-plus:hover {
+  border-color: #dd4b39;
+  background: #dd4b39;
+  color: #fff;
+}
+.oak-button-social.oak-google-plus:hover:before {
+  content: "\f235";
+}
+.oak-button-social.oak-linkedin {
+  border-color: #007bb6;
+  background: #007bb6;
+  color: #fff;
+}
+.oak-button-social.oak-linkedin:before {
+  content: "\f239";
+}
+/* ========================================================================================================================
+	11. Responsive styles
+============================================================================================================================*/
+/* ========================================================================================================================
+		11.1 Tablets, desktops & up
+============================================================================================================================*/
+@media (min-width: 1000px) {
+  body.oak-navigation-active .oak-header *:not(.oak-overlay) {
+    opacity: 0;
+    -ms-transform: scale(0.9, 0.9);
+    -webkit-transform: scale(0.9, 0.9);
+    transform: scale(0.9, 0.9);
+  }
+  body.oak-navigation-active .oak-header .oak-overlay {
+    opacity: .98;
+  }
+  body.oak-navigation-active .oak-navigation {
+    left: 0%;
+  }
+  .oak-subscribe {
+    margin-top: -2px;
+  }
+}
+@media (min-width: 768px) {
+  .oak-hide-on-desktop {
+    display: none !important;
+  }
+  .oak-articles-column > .oak-article {
+    padding-bottom: 2rem;
+  }
+  .oak-articles-column > .oak-article:hover .oak-article-footer {
+    opacity: 1;
+    max-height: 10rem;
+  }
+  .oak-articles-column > .oak-article:hover .oak-article-footer hr {
+    margin: 2rem 0;
+  }
+  .oak-articles-column > .oak-article .oak-article-footer {
+    max-height: 0rem;
+    opacity: 0;
+    overflow: hidden;
+    -webkit-transition: 0.6s cubic-bezier(0.42, 0.66, 0.14, 1);
+    -moz-transition: 0.6s cubic-bezier(0.42, 0.66, 0.14, 1);
+    -o-transition: 0.6s cubic-bezier(0.42, 0.66, 0.14, 1);
+    transition: 0.6s cubic-bezier(0.42, 0.66, 0.14, 1);
+  }
+  .oak-articles-column > .oak-article .oak-article-footer hr {
+    margin: 0;
+    -webkit-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+    -moz-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+    -o-transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+    transition: 0.4s cubic-bezier(0.42, 0.66, 0.14, 1);
+  }
+}
+/* ========================================================================================================================
+		11.2 Tablets, small desktops, phones & down
+============================================================================================================================*/
+@media (max-width: 1000px) {
+  body {
+    position: relative;
+  }
+  body.oak-navigation-active .oak-navigation {
+    -webkit-transform: translate3D(0%, 0, 0);
+    transform: translate3D(0%, 0, 0);
+    position: fixed;
+    z-index: 9;
+  }
+  .oak-header {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 0 4rem;
+  }
+  .oak-header .oak-inner {
+    max-width: none;
+    width: 100%;
+  }
+  .oak-header .oak-get-in-touch {
+    position: relative;
+    margin-top: 4rem;
+    z-index: 0;
+  }
+  .oak-navigation {
+    position: absolute;
+    padding: 0 1rem;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    -webkit-transform: translate3D(-100%, 0, 0);
+    transform: translate3D(-100%, 0, 0);
+    opacity: 1;
+    -webkit-backface-visibility: hidden;
+  }
+  .oak-navigation ul {
+    text-align: center;
+  }
+  .oak-main {
+    position: relative;
+    float: left;
+    width: 100%;
+  }
+  .oak-main > header .oak-post-search {
+    margin-top: 0;
+  }
+  .oak-main > header .oak-post-search input {
+    max-width: 13rem;
+  }
+}
+/* ========================================================================================================================
+		11.3 Small tablets, phones & down
+============================================================================================================================*/
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  .oak-navigation ul li {
+    padding: 0;
+    border: none;
+  }
+  .oak-hide-on-mobile {
+    display: none !important;
+  }
+  .oak-vertical-separator {
+    display: none;
+  }
+  .oak-main > header .oak-post-search {
+    width: 100%;
+  }
+  .oak-main > header .oak-post-search input {
+    max-width: none;
+    float: left;
+    width: 100%;
+    display: block;
+    border-bottom: 1px solid #ddd;
+  }
+  .oak-main > header .oak-post-search > .oak-search-icon {
+    position: absolute;
+    right: 0;
+  }
+  .oak-search-results {
+    width: 100%;
+    padding: 0 4rem;
+  }
+  .articles-column:first-child {
+    width: 100%;
+  }
+  .oak-main .oak-articles-column {
+    width: 100%;
+  }
+  .oak-main .oak-articles-column:nth-child(2) {
+    display: none;
+  }
+  .oak-main .oak-articles-column .oak-article {
+    margin-top: 2rem;
+    padding-bottom: 0;
+    border: none;
+  }
+  .oak-main .oak-articles-column .oak-article:hover {
+    box-shadow: none;
+  }
+  .oak-previous-post-wrapper,
+  .oak-next-post-wrapper {
+    width: 100%;
+    display: block;
+    padding: 0;
+    float: none;
+  }
+}
+@media (max-width: 655px) {
+  .oak-header {
+    padding: 0 1rem;
+  }
+  .oak-navigation-button {
+    top: 1rem;
+    left: 1rem;
+  }
+  .oak-main > header {
+    padding: 1rem 1rem;
+  }
+  .oak-button-image,
+  .oak-main-header-left-item,
+  .oak-subscribe {
+    display: none !important;
+  }
+  pre {
+    padding: 0;
+  }
+  blockquote {
+    padding: 0.25rem 0 0.25rem 1rem;
+  }
+  .oak-search-results {
+    padding: 0 1rem;
+  }
+  .oak-article {
+    width: 100%;
+    padding: 1rem;
+    padding-top: 0;
+  }
+  .oak-article:first-child {
+    padding-top: 0;
+  }
+  .oak-article:hover {
+    box-shadow: none;
+  }
+  .oak-article .oak-article-cover {
+    border-radius: 0px;
+    margin: 0 -1rem;
+  }
+}
+@media (max-width: 315px) {
+  .oak-post-search {
+    display: none;
+  }
+}
