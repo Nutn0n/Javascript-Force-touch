@@ -7,11 +7,11 @@ body {
 
  }
 
- .force_down { background-color: #111111; }
- .mouse_down { background-color: #333333;}
- .mouse_rase { background-color: #555555;}
+ .force_down { background-color: #999999; }
+ .mouse_down { background-color: #D6D6D6;}
+ .mouse_rase { background-color: #ffffff;}
 
-h1 { font-weight: 100; font-size:50px; color:#ffffff; }
-h2 { font-weight: 200; font-size:20px; margin-top:-30px; color:#f2f2f2; }
+h1 { font-weight: 100; font-size:50px; color:#333333; }
+h2 { font-weight: 200; font-size:20px; margin-top:-30px; color:#333333; }
 
-.wrapper { text-align:center; margin-top:100px; }
+.wrapper { text-align:center; margin-top:200px; }
