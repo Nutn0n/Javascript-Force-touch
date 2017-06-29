@@ -6,6 +6,8 @@ document.addEventListener("DOMContentLoaded", function() {
   var button = document.querySelector(".force-get");
   var forcetouch = document.querySelector(".force-push");
 
+// Test adding comments 
+  
   var fsm = StateMachine.create({
     initial: 'rest',
     events: [
